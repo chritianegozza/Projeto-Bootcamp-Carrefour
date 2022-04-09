@@ -1,0 +1,15 @@
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\Projeto  Bootcamp  Carrefour.exe
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\Projeto  Bootcamp  Carrefour.deps.json
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\Projeto  Bootcamp  Carrefour.runtimeconfig.json
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\Projeto  Bootcamp  Carrefour.dll
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\ref\Projeto  Bootcamp  Carrefour.dll
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\bin\Debug\net6.0\Projeto  Bootcamp  Carrefour.pdb
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.dll
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\ref\Projeto  Bootcamp  Carrefour.dll
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.pdb
+C:\Users\Chris\Desktop\Projeto  Bootcamp  Carrefour\obj\Debug\net6.0\Projeto  Bootcamp  Carrefour.genruntimeconfig.cache
